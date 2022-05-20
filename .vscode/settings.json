@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "blinker.h": "c",
+        "main.h": "c",
+        "luos_hal.h": "c",
+        "stdio.h": "c"
+    }
+}
